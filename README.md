@@ -1,1 +1,3 @@
-# rock_scissors_paper
+## Just stone scissors paper
+***
+@SSenpo
